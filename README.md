@@ -14,23 +14,19 @@
 
 
 
-<!--
 
-<img src="https://readme-typing-svg.herokuapp.com?duration=2500&lines=Hi%2C+I'm+Valensce!" href="https://github.com/valensce"><br>
-<img src="https://readme-typing-svg.herokuapp.com?duration=2500&lines=This+is+Vueneon%2C+an+alt+account" href="https://github.com/valensce"><br><hr>
+
+<img src="https://readme-typing-svg.herokuapp.com?duration=2500&lines=Hi%2C+I'm+JunLuo!" href="https://github.com/valensce"><br>
 <div align="center">
 	<p>
-		<img src = "https://readme-typing-svg.herokuapp.com?duration=2500&size=26&color=20C20E&center=true&lines=Hey,+I'm+Valensce!">
+		<img src = "https://readme-typing-svg.herokuapp.com?duration=2500&size=26&color=20C20E&center=true&lines=Nice+to+meet+u">
 	</p>
-	<p>
-		<img src="https://profile-counter.glitch.me/valensce/count.svg">
-	</p>
-	<hr>
 <img align="center" href="https://github.com/Valensce" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg"><br><hr>
 </div>
-
+<!--
 
 **DouBiBaNi/DouBiBaNi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?duration=2500&lines=This+is+JunLuo%2C+an+alt+account" href="https://github.com/valensce"><br><hr>
 
 Here are some ideas to get you started:
 
