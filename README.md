@@ -1,4 +1,6 @@
 ### Hi, I'm Jun Luo. Nice to meet u! :grin:
+
+You can follow me in my [site](https://doubibani.github.io/) and give me a star.
 ```
     __  ___    _____                   __               __              
    / / / (_)  /  _( )____ ___         / /_  ______     / /   __  ______ 
